@@ -3,14 +3,14 @@
 #####  DWR SETTINGS   #####
 ###########################
 [config]
-sensitivity = 1
-smoothing = 0.01
+sensitivity = 1.90
+smoothing = 0.010
 mode = 3
 
 [settings]
 aim color = PURPLE
-snapping area = NECK
-toggle key = MB4
+snapping area = CHEST
+toggle key = LCLICK
 hold or toggle = TOGGLE
 hFov = 100
 vFov = 100
